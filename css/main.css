@@ -2,3 +2,12 @@ h1 {
     /* propriedade: valor; */
     color: red;
 }
+
+
+li {
+    /* tirar os pontos */
+    list-style: none;
+    
+    /* deixar um ao lado do outro */
+    display: inline-block;
+}
