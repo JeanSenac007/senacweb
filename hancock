@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charser="UTF-8">
-        <title>Clube Da Luta</title>
+        <title>Hancock</title>
 
         <link rel="stylesheet" href="css/normalize.css">
         <link rel="stylesheet" href="css/main.css">
@@ -15,7 +15,7 @@
             <header id="cabecalho">
 
                 <a href= "index.html" class="logo">
-                    <img src="img/Amortedodemonio/logo.png" alt="Logo IMDB">
+                    <img src="img/hancock/logo.png" alt="Logo IMDB">
                 </a>
 
                 <nav class="menu">
@@ -33,29 +33,28 @@
 
             <article class="conteudo">
                 <h1>Hancock<small>(2008)</small></h1>
-                <h2>"Evil Dead"<em>(Original Title)</em></h2>
                 <figure class="img-principal">
                     <img src="img/hancock/imgprincipal4.jpg" alt="Imagen Principal">
-                    <figcaption>A Lagoa Azul (1980)</figcaption>
+                    <figcaption>Hancock (2008)</figcaption>
                 </figure>
 
                 <p class="descricao">Hancock is a superhero whose ill considered behavior regularly causes damage in the millions. He changes when one person he saves helps him improve his public image.</p>
                 <div class="img-list">    
                     <h3>Imagens Adicionais</h3>
                     <ul>
-                        <li><img src="img/Amortedodemonio/img9.jpg" alt="Imagen 1"></li>
-                        <li><img src="img/Amortedodemonio/img10.jpg" alt="Imagen 2"></li>
-                        <li><img src="img/Amortedodemonio/img11.jpg" alt="Imagen 3"></li>
-                        <li><img src="img/Amortedodemonio/img12.jpg" alt="Imagen 4"></li>
+                        <li><img src="img/hancock/img13.jpg" alt="Imagen 1"></li>
+                        <li><img src="img/hancock/img14.jpg" alt="Imagen 2"></li>
+                        <li><img src="img/hancock/img15.jpg" alt="Imagen 3"></li>
+                        <li><img src="img/hancock/img16.jpg" alt="Imagen 4"></li>
                     </ul>
                 </div>
             </article>
 
             <h1><small>Comentarios:</small></h1>
 
-            <p>Yago Luiz: nao assisti ainda.</p>
-            <p>Dennis Toledo: eu tambem nao assisti. </p>
-            <p>Jean Pier: eu assisti. e um pouco chato, pois tem muito efeitos e tals, rasualvel</p>
+            <p>Yago Luiz: filme muito top, muito fodaa.</p>
+            <p>Dennis Toledo: adorei, concordo com o Yago Luiz.</p>
+            <p>Jean Pier: filme muito foda mesmo, nao canso de assisti, nao enjoa, realmente muito foda.</p>
             <footer id="rodape">
                 <p>&copy; CopyRight - "Site do Jean Pier" - Todos os Direitos Reservados <br />
 
