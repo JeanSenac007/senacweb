@@ -1,0 +1,11 @@
+<?php
+require 'vendor/autoload.php';
+
+$app = new \Slim\Slim();
+
+// Hello World
+$app->get('/hello/:name', function ($name) {
+    echo "hello, " . $name;
+});
+    
+    $app->run();
